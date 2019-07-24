@@ -1,0 +1,18 @@
+img.full {
+	width: 100%;
+}
+footer.page-footer{
+	background-color: #2196F3;
+}
+nav{
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+p.padded{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.parallax-container {
+      height: 500px;
+}
